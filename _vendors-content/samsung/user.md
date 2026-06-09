@@ -13,7 +13,7 @@ manufacturer: samsung
 - **Android Oreo and Nougat**: App power monitor, Background restrictions
 - **Android Marshmallow or below**: Smart manager
 
-
+1.[ android 15
 1. [ Android 14 ](#android-14) 
 2. [ Android 13 ](#android-13) 
 2. [ Android 11 ](#android-11) <br>
