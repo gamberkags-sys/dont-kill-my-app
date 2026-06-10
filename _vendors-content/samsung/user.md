@@ -548,3 +548,4 @@ On other Samsung phones, the path may look like this:<br>
 
 > Note: If you enable "Edge Lighting" for your app, the app will not be able to wake up your screen. To allow your app to wake up your screen, please remove it from the Edge Lighting applications list.
 
+adb shell /data/app/~~Epehaq4LG5yUr3to88ubYw==/moe.shizuku.privileged.api-5V-9D30v7k5toTWpw9epLg==/lib/arm64/libshizuku.so
